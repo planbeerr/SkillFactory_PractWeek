@@ -35,7 +35,6 @@ public class Squirrel {
                 count = 0;
             }
         }
-
         return count;
     }
 }
